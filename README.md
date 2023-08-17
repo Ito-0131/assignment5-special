@@ -9,3 +9,6 @@
 
 ≪参考文献≫https://online.dhw.co.jp/kuritama/query-string/
 
+### パスパラメータとは
+URLのパス部分に含まれるセグメントとして表現され、コロン（:）で始まる名前が付けられる。クエリパラメータの前にある?以前の文字列のこと
+例: https://example.com/users/123
