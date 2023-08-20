@@ -22,11 +22,11 @@
 
 
 ### HTTPメソッドとは
-
-
-
-
-
+1. GET
+1. POST
+1. PUT
+1. PATCH
+1. DELETE
 
 
 
