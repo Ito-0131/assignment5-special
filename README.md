@@ -89,3 +89,8 @@ JSONはと「JavaScript Object Notation」の略称です。
 テキストベースであるXML (Extensible Markup Language)と比べてもよりシンプルであり、 各種言語との親和性も高く使い勝手も良いことから、Webアプリケーションやモバイルアプリケーションなど、さまざまなプログラムでデータのやり取りに利用されています。
 
 [参考サイト][https://cloudapi.kddi-web.com/magazine/json-javascript-object-notation]
+***
+### HTTPSとHTTPの違い
+HTTPS（HyperText Transfer Protocol Secure）とHTTP（HyperText Transfer Protocol）は、インターネット上で情報をやり取りする際に使用されるプロトコルです。  
+HTTPSにはセキュリティ証明書が使用されており、Webサイトの信頼性を示す情報が含まれています。一方で、HTTPでは証明証が使用されておらず、Webサイトの信頼性を示す手段がありません。
+HTTPSは通信内容が暗号化されるのでデータの盗聴やなりすましを防ぐことができますが、HTTPは暗号化されていないためセキュリティの面で脆弱性があります。
