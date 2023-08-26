@@ -88,3 +88,4 @@ JSONはと「JavaScript Object Notation」の略称です。
 
 テキストベースであるXML (Extensible Markup Language)と比べてもよりシンプルであり、 各種言語との親和性も高く使い勝手も良いことから、Webアプリケーションやモバイルアプリケーションなど、さまざまなプログラムでデータのやり取りに利用されています。
 
+[参考サイト][https://cloudapi.kddi-web.com/magazine/json-javascript-object-notation]
