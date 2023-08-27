@@ -88,7 +88,7 @@ JSONはと「JavaScript Object Notation」の略称です。
 
 テキストベースであるXML (Extensible Markup Language)と比べてもよりシンプルであり、 各種言語との親和性も高く使い勝手も良いことから、Webアプリケーションやモバイルアプリケーションなど、さまざまなプログラムでデータのやり取りに利用されています。
 
-[参考サイト](https://cloudapi.kddi-web.com/magazine/json-javascript-object-notation){:target="_blank"}
+≪参考文献≫ [「JSON」とは？非エンジニアでもよくわかる解説](https://cloudapi.kddi-web.com/magazine/json-javascript-object-notation){:target="_blank"}
 ***
 ### HTTPSとHTTPの違い
 HTTPS（HyperText Transfer Protocol Secure）とHTTP（HyperText Transfer Protocol）は、インターネット上で情報をやり取りする際に使用されるプロトコルです。
