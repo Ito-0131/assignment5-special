@@ -88,7 +88,7 @@ JSONはと「JavaScript Object Notation」の略称です。
 
 テキストベースであるXML (Extensible Markup Language)と比べてもよりシンプルであり、 各種言語との親和性も高く使い勝手も良いことから、Webアプリケーションやモバイルアプリケーションなど、さまざまなプログラムでデータのやり取りに利用されています。
 
-≪参考文献≫[「JSON」とは？非エンジニアでもよくわかる解説](https://cloudapi.kddi-web.com/magazine/json-javascript-object-notation){:target="_blank"}
+≪参考文献≫[「JSON」とは？非エンジニアでもよくわかる解説](https://cloudapi.kddi-web.com/magazine/json-javascript-object-notation)
 
 ***
 ### HTTPSとHTTPの違い
@@ -100,9 +100,21 @@ HTTPSは通信内容が暗号化されるのでデータの盗聴やなりすま
 
 ### JSONのサンプルコード
 ```JSON
-"UserInfo" : [  
-{ "id" : 1,  "name" : "Matsumoto", "age" : 27 },  
-{ "id" : 2,  "name" :"Hamada", "age" : 35},  
-{ "id" : 3,  "name" : "Endo", "age" : 42 }  
-   ]
+"UserInfo":[
+   {
+      "id":1,
+      "name":"Matsumoto",
+      "age":27
+   },
+   {
+      "id":2,
+      "name":"Hamada",
+      "age":35
+   },
+   {
+      "id":3,
+      "name":"Endo",
+      "age":42
+   }
+]
 ```
