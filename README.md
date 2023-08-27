@@ -97,7 +97,7 @@ HTTPSは通信内容が暗号化されるのでデータの盗聴やなりすま
 ***
 
 ### JSONのサンプルコード
-```
+```JSON
 "UserInfo" : [  
 { "id" : 1,  "name" : "Matsumoto", "age" : 27 },  
 { "id" : 2,  "name" :"Hamada", "age" : 35},  
